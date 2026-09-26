@@ -97,7 +97,7 @@ A reflection grating does a similar job as a transmission grating, but the equat
 \begin{array}{c} d \sin \theta_{m} =-m\lambda \\ \text{for incident light perpendicular to a reflection grating} \end{array}
 ```
 
-All that is different is the minus sign on the righthand side. Finally, let’s suppose the incoming light isn’t perpendicular to the grating but hits the grating at an angle $\theta _{i}$ with respect to the perpendicular (in optics, the perpendicular is called the “normal”), see [](#fig-2-2)b. The formula describing the diffraction of a spectral component is:
+All that is different is the minus sign on the right-hand side. Finally, let’s suppose the incoming light isn’t perpendicular to the grating but hits the grating at an angle $\theta _{i}$ with respect to the perpendicular (in optics, the perpendicular is called the “normal”), see [](#fig-2-2)b. The formula describing the diffraction of a spectral component is:
 
 ```{math}
 :label: eq-2-4
