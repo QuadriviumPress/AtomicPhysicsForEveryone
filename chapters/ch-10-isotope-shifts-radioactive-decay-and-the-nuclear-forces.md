@@ -624,7 +624,7 @@ Equation [](#eq-10-12) is the formula most everyone uses for radioactive decay. 
 
 ## References
 
-1. Barwood, G.P., Gill, P., Rowley, W.R.C.: Frequency measurements on optically narrowed Rb-stabilised laser diodes at 780 nm and 795 nm. Appl. Phys. B 53 , 142–147 (1991). [https://doi.org/10.1007/BF00330229](https://doi.org/10.1007/BF00330229)
+1. Barwood, G.P., Gill, P., Rowley, W.R.C.: Frequency measurements on optically narrowed Rb-stabilized laser diodes at 780 nm and 795 nm. Appl. Phys. B 53 , 142–147 (1991). [https://doi.org/10.1007/BF00330229](https://doi.org/10.1007/BF00330229)
 2. Keim, M., Arnold, E., Borchers, W., Georg, U., Klein, A., Neugart, R., Vermeeren, L., Silverans, R.E., Lievens, P.: Laser-spectroscopy measurements of 72–96Kr spins, moments and charge radii. Nucl. Phys. A 586 (2), 219–239 (1995). [https://doi.org/10.1016/0375-9474(94)00786-M](https://doi.org/10.1016/0375-9474(94)00786-M)
 3. Reid, R.V.: Local phenomenological nucleon-nucleon potentials. Ann. Phys. 50 (3), 411–448 (1968). [https://doi.org/10.1016/0003-4916(68)90126-7](https://doi.org/10.1016/0003-4916(68)90126-7)
 4. Bradford, R.A.W.: The effect of hypothetical diproton stability on the universe. J. Astrophys. Astron. 30 , 119–131 (2009). [https://doi.org/10.1007/s12036-009-0005-x](https://doi.org/10.1007/s12036-009-0005-x)

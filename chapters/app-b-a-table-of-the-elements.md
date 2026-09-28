@@ -22,7 +22,7 @@ Below is a list of all of the known elements sorted by the number of protons in 
 | 10 | Neon | Ne | [He]2s${ }^2$2p${ }^6~{ }^{1}S_{0}$ | 20, 21, 22 |
 | 11 | Sodium | Na | [Ne]3s${ }^1~{ }^{2}S_{1/2}$ | 23 |
 | 12 | Magnesium | Mg | [Ne]3s${ }^2~{ }^{1}S_{0}$ | 24, 25, 26 |
-| 13 | Aluminium | Al | [Ne]3s${ }^2$3p${ }^1~{ }^{2}P_{1/2}$ | 27 |
+| 13 | Aluminum | Al | [Ne]3s${ }^2$3p${ }^1~{ }^{2}P_{1/2}$ | 27 |
 | 14 | Silicon | Si | [Ne]3s${ }^2$3p${ }^2~{ }^{3}P_{0}$ | 28, 29, 30 |
 | 15 | Phosphorus | P | [Ne]3s${ }^2$3p${ }^3~{ }^{4}S_{3/2}$ | 31 |
 | 16 | Sulfur | S | [Ne]3s${ }^2$3p${ }^4~{ }^{3}P_{2}$ | 32, 33, 34, 36 |
